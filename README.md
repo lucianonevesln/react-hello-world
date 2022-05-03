@@ -1,3 +1,13 @@
+# Estudo: React
+
+## Objetivo:
+
+### Criar a primeira aplicação web usando o React.
+
+## Imagem:
+
+![alt text](https://github.com/lucianonevesln/react-hello-world/blob/main/img.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
